@@ -12,6 +12,6 @@ This [linktree](https://linktr.ee/SluppyMcPuppy) contains any links that may be 
 
 # Contributing to the Server
 While donations are not expected, they are the best method to contribute to the server and help pay the upkeep fees!
-More information on this can be found on the wiki. Or [click here](paypal.me/sluppymcpuppy681) to donate directly!
+More information on this can be found on the wiki. Or [click here](https://www.paypal.me/sluppymcpuppy681) to donate directly!
 
 Another method of contribution is to leave suggestions in the discord server! We have channels dedicated to Minecraft so make sure you join!
